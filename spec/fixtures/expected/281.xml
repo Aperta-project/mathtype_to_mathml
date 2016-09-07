@@ -3,27 +3,27 @@
   <mtable columnalign="left">
     <mtr>
       <mtd>
-        <mrow><msubsup><mrow><mover accent="true"><mi>Q</mi><mo>&#x2D9;</mo></mover></mrow><mrow><mi>p</mi><mi>r</mi><mi>o</mi><mi>d</mi></mrow><mrow><mo>&#x0027;</mo><mo>&#x0027;</mo><mo>&#x0027;</mo></mrow></msubsup><mo>=</mo>&#x00A0;rate&#x00A0;of&#x00A0;internal&#x00A0;heat&#x00A0;generation&#x00A0;per&#x00A0;unit&#x00A0;volume&#x00A0;<mrow><mo>[</mo><mrow><mfrac><mrow><mi>W</mi></mrow><mrow><msup><mrow><mi>m</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></mrow><mo>]</mo></mrow></mrow>
+        <mrow><msubsup><mrow><mover accent="true"><mi>Q</mi><mo>&#x2D9;</mo></mover></mrow><mrow><mi>p</mi><mi>r</mi><mi>o</mi><mi>d</mi></mrow><mrow><mo>&#x0027;</mo><mo>&#x0027;</mo><mo>&#x0027;</mo></mrow></msubsup><mo>=</mo>&#x00A0;<mtext>r</mtext><mtext>a</mtext><mtext>t</mtext><mtext>e</mtext>&#x00A0;<mtext>o</mtext><mtext>f</mtext>&#x00A0;<mtext>i</mtext><mtext>n</mtext><mtext>t</mtext><mtext>e</mtext><mtext>r</mtext><mtext>n</mtext><mtext>a</mtext><mtext>l</mtext>&#x00A0;<mtext>h</mtext><mtext>e</mtext><mtext>a</mtext><mtext>t</mtext>&#x00A0;<mtext>g</mtext><mtext>e</mtext><mtext>n</mtext><mtext>e</mtext><mtext>r</mtext><mtext>a</mtext><mtext>t</mtext><mtext>i</mtext><mtext>o</mtext><mtext>n</mtext>&#x00A0;<mtext>p</mtext><mtext>e</mtext><mtext>r</mtext>&#x00A0;<mtext>u</mtext><mtext>n</mtext><mtext>i</mtext><mtext>t</mtext>&#x00A0;<mtext>v</mtext><mtext>o</mtext><mtext>l</mtext><mtext>u</mtext><mtext>m</mtext><mtext>e</mtext>&#x00A0;<mrow><mo>[</mo><mrow><mfrac><mrow><mi>W</mi></mrow><mrow><msup><mrow><mi>m</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></mrow><mo>]</mo></mrow></mrow>
       </mtd>
     </mtr>
     <mtr>
       <mtd>
-        <mrow><mi>&#x03BB;</mi>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<mo>=</mo>&#x00A0;dung&#x00A0;heat&#x00A0;conductivity&#x00A0;<mrow><mo>[</mo><mrow><mfrac><mrow><mi>W</mi></mrow><mrow><mi>m</mi><mo>&#x22C5;</mo><mi>K</mi></mrow></mfrac></mrow><mo>]</mo></mrow></mrow>
+        <mrow><mi>&#x03BB;</mi>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<mo>=</mo>&#x00A0;<mtext>d</mtext><mtext>u</mtext><mtext>n</mtext><mtext>g</mtext>&#x00A0;<mtext>h</mtext><mtext>e</mtext><mtext>a</mtext><mtext>t</mtext>&#x00A0;<mtext>c</mtext><mtext>o</mtext><mtext>n</mtext><mtext>d</mtext><mtext>u</mtext><mtext>c</mtext><mtext>t</mtext><mtext>i</mtext><mtext>v</mtext><mtext>i</mtext><mtext>t</mtext><mtext>y</mtext>&#x00A0;<mrow><mo>[</mo><mrow><mfrac><mrow><mi>W</mi></mrow><mrow><mi>m</mi><mo>&#x22C5;</mo><mi>K</mi></mrow></mfrac></mrow><mo>]</mo></mrow></mrow>
       </mtd>
     </mtr>
     <mtr>
       <mtd>
-        <mrow><mi>r</mi>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<mo>=</mo>&#x00A0;radius&#x00A0;<mrow><mo>[</mo><mrow><mi>m</mi></mrow><mo>]</mo></mrow></mrow>
+        <mrow><mi>r</mi>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<mo>=</mo>&#x00A0;<mtext>r</mtext><mtext>a</mtext><mtext>d</mtext><mtext>i</mtext><mtext>u</mtext><mtext>s</mtext>&#x00A0;<mrow><mo>[</mo><mrow><mi>m</mi></mrow><mo>]</mo></mrow></mrow>
       </mtd>
     </mtr>
     <mtr>
       <mtd>
-        <mrow><mi>L</mi>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<mo>=</mo>&#x00A0;dung&#x00A0;hill&#x00A0;length&#x00A0;<mrow><mo>[</mo><mrow><mi>m</mi></mrow><mo>]</mo></mrow></mrow>
+        <mrow><mi>L</mi>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<mo>=</mo>&#x00A0;<mtext>d</mtext><mtext>u</mtext><mtext>n</mtext><mtext>g</mtext>&#x00A0;<mtext>h</mtext><mtext>i</mtext><mtext>l</mtext><mtext>l</mtext>&#x00A0;<mtext>l</mtext><mtext>e</mtext><mtext>n</mtext><mtext>g</mtext><mtext>t</mtext><mtext>h</mtext>&#x00A0;<mrow><mo>[</mo><mrow><mi>m</mi></mrow><mo>]</mo></mrow></mrow>
       </mtd>
     </mtr>
     <mtr>
       <mtd>
-        <mrow><mi>T</mi>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<mo>=</mo>&#x00A0;temperature&#x00A0;<mrow><mo>[</mo><mrow><mo>&#xB0;</mo><mi>C</mi></mrow><mo>]</mo></mrow></mrow>
+        <mrow><mi>T</mi>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<mo>=</mo>&#x00A0;<mtext>t</mtext><mtext>e</mtext><mtext>m</mtext><mtext>p</mtext><mtext>e</mtext><mtext>r</mtext><mtext>a</mtext><mtext>t</mtext><mtext>u</mtext><mtext>r</mtext><mtext>e</mtext>&#x00A0;<mrow><mo>[</mo><mrow><mo>&#xB0;</mo><mi>C</mi></mrow><mo>]</mo></mrow></mrow>
       </mtd>
     </mtr>
   </mtable>

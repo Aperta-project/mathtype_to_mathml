@@ -56,12 +56,12 @@
       <mtable columnalign="left">
         <mtr>
           <mtd>
-            <mrow><mi>r</mi><mfrac><mrow><mstyle displaystyle="true"><munderover><mo>&#x2211;</mo><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>y</mi></mrow></msub><mo>=</mo><mi>C</mi></mrow><mrow/></munderover><mrow><msub><mrow><mi>Y</mi></mrow><mrow><mi>y</mi></mrow></msub></mrow></mstyle></mrow><mrow><mi>N</mi></mrow></mfrac><mo>&#x2212;</mo><msub><mrow><mi>Y</mi></mrow><mrow><mi>x</mi></mrow></msub>&#x00A0;&#x00A0;&#x00A0;&#x00A0;if&#x00A0;<msub><mrow><mi>s</mi></mrow><mrow><mi>x</mi></mrow></msub><mo>=</mo><mi>C</mi></mrow>
+            <mrow><mi>r</mi><mfrac><mrow><mstyle displaystyle="true"><munderover><mo>&#x2211;</mo><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>y</mi></mrow></msub><mo>=</mo><mi>C</mi></mrow><mrow/></munderover><mrow><msub><mrow><mi>Y</mi></mrow><mrow><mi>y</mi></mrow></msub></mrow></mstyle></mrow><mrow><mi>N</mi></mrow></mfrac><mo>&#x2212;</mo><msub><mrow><mi>Y</mi></mrow><mrow><mi>x</mi></mrow></msub>&#x00A0;&#x00A0;&#x00A0;&#x00A0;<mtext>i</mtext><mtext>f</mtext>&#x00A0;<msub><mrow><mi>s</mi></mrow><mrow><mi>x</mi></mrow></msub><mo>=</mo><mi>C</mi></mrow>
           </mtd>
         </mtr>
         <mtr>
           <mtd>
-            <mrow><mi>r</mi><mfrac><mrow><mstyle displaystyle="true"><munderover><mo>&#x2211;</mo><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>y</mi></mrow></msub><mo>=</mo><mi>C</mi></mrow><mrow/></munderover><mrow><msub><mrow><mi>Y</mi></mrow><mrow><mi>y</mi></mrow></msub></mrow></mstyle></mrow><mrow><mi>N</mi></mrow></mfrac>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;if&#x00A0;<msub><mrow><mi>s</mi></mrow><mrow><mi>x</mi></mrow></msub><mo>=</mo><mi>D</mi></mrow>
+            <mrow><mi>r</mi><mfrac><mrow><mstyle displaystyle="true"><munderover><mo>&#x2211;</mo><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>y</mi></mrow></msub><mo>=</mo><mi>C</mi></mrow><mrow/></munderover><mrow><msub><mrow><mi>Y</mi></mrow><mrow><mi>y</mi></mrow></msub></mrow></mstyle></mrow><mrow><mi>N</mi></mrow></mfrac>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;<mtext>i</mtext><mtext>f</mtext>&#x00A0;<msub><mrow><mi>s</mi></mrow><mrow><mi>x</mi></mrow></msub><mo>=</mo><mi>D</mi></mrow>
           </mtd>
         </mtr>
       </mtable>
